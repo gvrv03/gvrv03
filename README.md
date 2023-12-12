@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gvrv_n" target="blank"><img src="https://img.shields.io/twitter/follow/gvrv_n?logo=twitter&style=for-the-badge" alt="gvrv_n" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [gauravnarnaware.com](gauravnarnaware.com)
+- 👨‍💻 All of my projects are available at [https://gvrvnarnaware.vercel.app/](https://gvrvnarnaware.vercel.app/)
 
-- 📝 I regularly write articles on [gauravnarnaware.com](gauravnarnaware.com)
+- 📝 I regularly write articles on [https://gvrvnarnaware.vercel.app/](https://gvrvnarnaware.vercel.app/)
 
 - 💬 Ask me about **React, nextjs, mongodb, Mongoose, etc.**
 
